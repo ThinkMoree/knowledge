@@ -1,0 +1,2 @@
+官方：http://python.usyiyi.cn/django/index.html
+基础教程：http://www.ziqiangxuetang.com/django/django-tutorial.html
